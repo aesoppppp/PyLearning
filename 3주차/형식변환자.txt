@@ -1,0 +1,7 @@
+%d	decimal 		10진 정수
+%o					8진 정수
+%x					16진 정수
+%f 	floating point 	실수 부동소수점수 (3.14 같은 수)
+%e 	exponential 	지수형 실수 (1.23e-3			e는 10의 몇승)
+%c 	character		문자
+%s	string			문자열
