@@ -1,2 +1,2 @@
 # PyLearning
-✏Doki Doki Python examples 
+💚 Doki Doki Python 💚 examples 
